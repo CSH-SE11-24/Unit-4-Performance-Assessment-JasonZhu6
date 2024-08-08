@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/* Font styling and background color */
+body {
+  font-family: "Gaegu", sans-serif !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* Styling for the "Animals Start with ..." in the home page */
+.animalLetter {
+  width: 50vw;
+  height: 25vh;
+  object-fit: cover;
+}
+
+/* Styling for the examples in the ovi and vivi pages */
+.examples {
+  width: 100vw; 
+  object-fit: cover;
+}
+
+/* Navbar color styling */
+nav {
+  background-color: #99cf93;
+}
